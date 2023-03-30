@@ -1,0 +1,8 @@
+--- nv-codec-headers-12.0.16.0/Makefile~	2023-01-02 18:01:12.000000000 +0000
++++ nv-codec-headers-12.0.16.0/Makefile	2023-03-30 20:05:57.893614397 +0000
+@@ -1,4 +1,4 @@
+-PREFIX = /usr/local
++PREFIX = /usr
+ LIBDIR = lib
+ INSTALL = install
+ SED = sed
